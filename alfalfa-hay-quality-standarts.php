@@ -1,0 +1,192 @@
+<?php
+$cookie_name = "bookie";
+$cookie_value = "doraley666";
+setcookie($cookie_name, $cookie_value, time() + (86400 * 300), "/"); // 86400 = 1 day
+?>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Alfalfa Hay Quality Standarts</title>
+	<meta name="description" content="Alfalfa hay quality standarts, hay grading,
+		visual estimates of alfalfa hay quality.">
+	<meta name="keywords" content="alfalfa, quality, standarts, hay, grades,
+		categories ukrainian alfalfa, supreme, premium, good, fair, low">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body class="standarts">
+<?php include_once("google-tag-manager.php") ?>
+<?php include("_partials/header.php"); ?>
+
+<section>
+  <h1>Alfalfa hay quality standarts</h1>
+  <div class="box">
+		<h2>Hay grading</h2>
+		<p>Alfalfa hay standards provide a more specific distinction
+			among classes of hay. This ensures fairer pricing because it also
+			provides a better estimate than appearance of feeding value prior to purchase.</p>
+		<h3>Table of Quality categories of alfalfa hay</h3>
+		<p>All quality parameters are based on 100% DM</p>
+
+		<table>
+			<tr>
+				<th>Hay Quality Category</th>
+				<th>CP</th>
+				<th>ADF</th>
+				<th>NDF</th>
+				<th>TDN</th>
+				<th>RFV</th>
+			</tr>
+			<tr>
+				<td>Low</td>
+				<td><16</td>
+				<td>>35</td>
+				<td>>44</td>
+				<td><56</td>
+				<td><130</td>
+			</tr>
+			<tr>
+				<td>Fair</td>
+				<td>16-18</td>
+				<td>32-35</td>
+				<td>40-44</td>
+				<td>56-58</td>
+				<td>130-150</td>
+			</tr>
+			<tr>
+				<td>Good</td>
+				<td>18-20</td>
+				<td>29-32</td>
+				<td>36-40</td>
+				<td>58-60</td>
+				<td>150-170</td>
+			</tr>
+			<tr>
+				<td>Premium</td>
+				<td>20-22</td>
+				<td>27-29</td>
+				<td>34-36</td>
+				<td>61-62</td>
+				<td>170-185</td>
+			</tr>
+			<tr>
+				<td>Supreme</td>
+				<td> > 22</td>
+				<td> < 27</td>
+				<td> < 34</td>
+				<td> > 62</td>
+				<td> > 185</td>
+			</tr>
+	</table>
+
+		<h3>Terms explaination</h3>
+		<dl>
+			<dt>Dry matter (DM)</dt>
+			<dd>is the percentage of the forage that is not water.</dd>
+
+			<dt>Crude protein (CP)</dt>
+			<dd>is a mixture of true protein and non-protein nitrogen, and also
+				includes insoluble crude protein. It is estimated by measuring the total
+				nitrogen in the sample and multiplying this value by 6.25. In general,
+				a high CP level is desirable, but a high CP level is not always
+				indicative of highly nutritious forage. It is usually obtained by
+				harvesting at an early growth stage.</dd>
+
+			<dt>Acid detergent fiber (ADF)</dt>
+			<dd>represents the portion of the forage remaining after a weak acid
+				digestion and contains cellulose, lignin, silica, and insoluble nitrogen
+				compounds. In general, as forage plants mature, ADF increases and
+				digestibility of forage decreases. While it has been commonly used
+				to predict digestibility, ADF has not been shown consistently to be
+				highly correlated with actual digestibility. Low ADF is desirable.
+			</dd>
+
+			<dt>Neutral detergent fiber (NDF)</dt>
+			<dd>represents the cell wall portion of the forage and includes
+				hemicellulose and the ADF components. The NDF portion is only partially
+				digestible. Neutral detergent fiber is negatively correlated with
+				intake - the higher the percentage NDF, the less of the forage the
+				animal will eat. Thus, low NDF is desirable. Neutral detergent fiber
+				increases as forages mature.</dd>
+
+			<dt>Total digestible nutrients (TDN)</dt>
+			<dd>is an estimate of the total amount of nutrients in a forage that is
+				digestible by the animal.</dd>
+
+			<dt>Relative feed value (RFV)</dt>
+			<dd>is an index that combines ADF and NDF nutritional factors
+				to arrive at one number to measure and compare forage quality. It is
+				used to allocate forages with varying digestibility and intake to
+				different livestock classes. In addition, it is used extensively
+				for marketing hay and price determination.</dd>
+		</dl>
+  </div>
+	<div class="box">
+    <h2>VISUAL ESTIMATES OF QUALITY</h2>
+		<p>Early hay standards established grades on visual estimates only, but
+			these estimates of quality were subjective and difficult to substantiate.
+			Still, while it is not recommended to assess hay quality on appearance
+			alone, certainly visual observations of the hay are important. An initial
+			visual estimate of hay quality can alert you to hay that might or might
+			not be worth buying. It is difficult to estimate the actual nutritive
+			value of hay based on looks, and visual criteria are not necessarily
+			related to animal performance. Bright green, vibrant looking hay may not
+			always test high, and hay with a poor appearance may be of good quality
+			but give an impression of low nutrition. Buyers and sellers should use
+			both laboratory results and visual appraisal to set a fair price. Several
+			factors should be considered when inspecting a bale or load of hay,
+			including maturity, leafiness, color, proportion and coarseness of stems,
+			foreign material (including weeds), odor, mold, and dust. Leaves are the
+			most digestible part of the plant and contain the most protein, so they
+			should be retained as much as possible. Also, green color is an indicator
+			of high vitamin A content and implies proper curing.</p>
+
+    <h3>Supreme</h3>
+		<p>Very early maturity, pre-bloom, very soft, fine-stemmed, extra
+			leafy - factors contributing to a very high nutritive content. Hay is
+			excellent in color, free of damage, mold, dust, or foreign material.
+			For legumes, this will occur at bud to first flower or just before
+			blooming.</p>
+
+		<h3>Premium</h3>
+		<p>Early maturity, pre-bloom, fine-stemmed, extra leafy - factors
+			contributing to a high nutritive content. Hay is green and free of damage,
+			 mold, dust, or foreign material (< 5%). Also occurs from bud to first
+			 bloom in legumes.</p>
+
+	 	<h3>Good</h3>
+		<p>Early to average maturity, that is, early- to mid-bloom
+			(first flower to 50% of plants in bloom). Leafy, fine- to medium-stemmed,
+			free of damage, mold, and dust, slight discoloration.</p>
+
+		<h3>Fair</h3>
+		<p>Late maturity, mid- to late-bloom (> 50% of plants in bloom).
+			Moderate or low leaf content and generally coarse-stemmed. Hay may show
+			slight damage.</p>
+
+		<h3>Low</h3>
+		<p>Hay in very late maturity with mature seedpods. Very
+			coarse-stemmed. Could include hay discounted due to excessive damage and
+			heavy weed content or mold.</p>
+  </div>
+
+	<div class="box">
+		<h3>Note</h3>
+		<p>While laboratory analyses and visual inspections are helpful in
+			determining the feed value of hay, the most accurate test of quality is
+			animal performance. High-quality hay will be readily consumed. Animal
+			performance is determined by intake, digestibility, and nutrient content,
+			and is also impacted by toxic compounds within the hay product.</p>
+	</div>
+
+	<section class="box">
+		<div class="date">Last update: October 4, 2016</div>
+	</section>
+
+	<div class="greeting">Welcome to Ukrainian Alfalfa</div>
+</section>
+
+<?php include("_partials/footer.php"); ?>
+<?php include_once("analyticstracking.php") ?>
+</body>
+</html>
