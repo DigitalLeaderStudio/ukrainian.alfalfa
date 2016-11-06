@@ -1,0 +1,159 @@
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\ApplicationInsights.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\csc.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\System.Collections.Immutable.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\System.Reflection.Metadata.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\vbc.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\VBCSCompiler.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\roslyn\VBCSCompiler.exe.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\alfalfa.dll.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\alfalfa.pdb
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Antlr3.Runtime.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.Agent.Intercept.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.DependencyCollector.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.Web.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.WindowsServer.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.ApplicationInsights.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.Web.Infrastructure.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Newtonsoft.Json.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Helpers.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Mvc.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Optimization.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Razor.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.Deployment.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.Razor.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\WebGrease.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.DependencyCollector.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.Web.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.AI.WindowsServer.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.ApplicationInsights.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Helpers.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Mvc.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Optimization.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.Razor.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.Deployment.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\System.Web.WebPages.Razor.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Antlr3.Runtime.pdb
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\bin\Newtonsoft.Json.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\obj\Debug\alfalfa.csprojResolveAssemblyReference.cache
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\obj\Debug\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\alfalfa\obj\Debug\alfalfa.pdb
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\ApplicationInsights.config
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\csc.exe
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\System.Collections.Immutable.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\System.Reflection.Metadata.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\vbc.exe
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\VBCSCompiler.exe
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\roslyn\VBCSCompiler.exe.config
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\alfalfa.dll.config
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\alfalfa.pdb
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Antlr3.Runtime.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.Agent.Intercept.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.DependencyCollector.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.Web.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.WindowsServer.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.ApplicationInsights.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.Web.Infrastructure.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Newtonsoft.Json.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Helpers.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Mvc.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Optimization.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Razor.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.Deployment.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.Razor.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\WebGrease.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.DependencyCollector.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.Web.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.AI.WindowsServer.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.ApplicationInsights.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Helpers.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Mvc.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Optimization.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.Razor.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.Deployment.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\System.Web.WebPages.Razor.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Antlr3.Runtime.pdb
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\bin\Newtonsoft.Json.xml
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\obj\Debug\alfalfa.csprojResolveAssemblyReference.cache
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\obj\Debug\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\New folder\alfalfa\obj\Debug\alfalfa.pdb
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\ApplicationInsights.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\csc.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\System.Collections.Immutable.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\System.Reflection.Metadata.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\vbc.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\VBCSCompiler.exe
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\roslyn\VBCSCompiler.exe.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\alfalfa.dll.config
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\alfalfa.pdb
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Antlr3.Runtime.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.Agent.Intercept.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.DependencyCollector.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.Web.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.WindowsServer.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.ApplicationInsights.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.Web.Infrastructure.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Newtonsoft.Json.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Helpers.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Mvc.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Optimization.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Razor.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.Deployment.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.Razor.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\WebGrease.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.DependencyCollector.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.Web.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.AI.WindowsServer.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.ApplicationInsights.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Helpers.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Mvc.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Optimization.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.Razor.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.Deployment.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\System.Web.WebPages.Razor.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Antlr3.Runtime.pdb
+E:\noBugsException\alfalfa.in.ua\alfalfa\bin\Newtonsoft.Json.xml
+E:\noBugsException\alfalfa.in.ua\alfalfa\obj\Debug\alfalfa.csprojResolveAssemblyReference.cache
+E:\noBugsException\alfalfa.in.ua\alfalfa\obj\Debug\alfalfa.dll
+E:\noBugsException\alfalfa.in.ua\alfalfa\obj\Debug\alfalfa.pdb

@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Alfalfa Hay Pricing</title>
+    <meta name="description" content="Alfalfa hay bales and pellets export pricing.">
+    <meta name="keywords" content="alfalfa, prices, pricing, lucerne, hay, pellets,
+		ukrainian alfalfa, grades, payment terms">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/Site.css")" />
+    <link runat="server" rel="shortcut icon" href="@Url.Content("~/Content/img/favicon.ico")" type="image/x-icon" />
+    <link runat="server" rel="icon" href="@Url.Content("~/Content/img/favicon.ico")" type="image/ico" />
+</head>
+<body class="pricing">
+    @Html.Partial("_Header")
+    <div class="container">
+        <h1>Alfalfa hay pricing</h1>
+
+        <section>
+            <h2>Alfalfa bales prices</h2>
+            <p>Prices are on FOB basis and denoted for one metric ton</p>
+            <p>
+                Learn more about
+                <a href="/QualityStandarts"
+                   title="Alfalfa hay quality standarts">
+                    alfalfa hay grades and quality standarts
+                </a>
+            </p>
+            <h3>Grade 5. Low</h3>
+            <div class="price-table grade-5">
+                <div>
+                    <div>1 container</div>
+                    <div>$137</div>
+                </div>
+                <div>
+                    <div>2-5 containers</div>
+                    <div>$132</div>
+                </div>
+                <div>
+                    <div>6+ containers</div>
+                    <div>$127</div>
+                </div>
+            </div> <!-- end grade 5 -->
+
+            <h3>Grade 4. Fair</h3>
+            <div class="price-table grade-4">
+                <div>
+                    <div>1 container</div>
+                    <div>$182</div>
+                </div>
+                <div>
+                    <div>2-5 containers</div>
+                    <div>$175</div>
+                </div>
+                <div>
+                    <div>6+ containers</div>
+                    <div>$168</div>
+                </div>
+            </div> <!-- end grade 4 -->
+
+        </section>
+
+        <section>
+            <h2>Alfalfa pellets prices</h2>
+            <p>Prices are on FOB basis and denoted for one ton</p>
+            <p>
+                Learn more about
+                <a href="/QualityStandarts"
+                   title="Alfalfa hay quality standarts">
+                    alfalfa hay grades and quality standarts
+                </a>
+            </p>
+            <h3>Grade 5. Low</h3>
+            <div class="price-table grade-5">
+                <div>
+                    <div>1 container</div>
+                    <div>$205</div>
+                </div>
+                <div>
+                    <div>2-5 containers</div>
+                    <div>$197</div>
+                </div>
+                <div>
+                    <div>6+ containers</div>
+                    <div>$189</div>
+                </div>
+            </div> <!-- end grade 4 -->
+
+            <h3>Grade 4. Fair</h3>
+            <div class="price-table grade-4">
+                <div>
+                    <div>1 container</div>
+                    <div>$217</div>
+                </div>
+                <div>
+                    <div>2-5 container</div>
+                    <div>$208</div>
+                </div>
+                <div>
+                    <div>6+ containers</div>
+                    <div>$199</div>
+                </div>
+            </div> <!-- end grade 5 -->
+
+        </section>
+        <section>
+            <h2>Terms</h2>
+            <div class="text-wrapper">
+                <dl>
+                    <dt>Currency</dt>
+                    <dd>USD</dd>
+
+                    <dt>Payment Terms</dt>
+                    <dd>T/T</dd>
+                </dl>
+                <dl>
+                    <dt>Shipping Terms</dt>
+                    <dd>FOB (Free on Board)</dd>
+
+                    <dt>Freight Price</dt>
+                    <dd>
+                        <a href="/contact" title="contact us for freight quotations">
+                            Ask us for recent freight quotation to
+                            your port
+                        </a>
+                    </dd>
+                </dl>
+            </div>
+        </section>
+
+        <section>
+            <h2>Bank details</h2>
+            <div class="text-wrapper">
+                <dl>
+                    <dt>Bank account</dt>
+                    <dd>26006052606138</dd>
+
+                    <dt>Bank name</dt>
+                    <dd>Privatbank, Dnipropetrovsk, Ukraine</dd>
+                </dl>
+                <dl>
+                    <dt>Bank SWIFT Code</dt>
+                    <dd>PBANUA2X</dd>
+
+                    <dt>IBAN Code</dt>
+                    <dd>UA 5830 0711 0000 0260 0605 2606 138</dd>
+                </dl>
+            </div>
+        </section>
+
+        <section>
+            <div class="date">Last update: October 11, 2016</div>
+        </section>
+
+        <div class="greeting">Welcome to Ukrainian Alfalfa</div>
+    </div>
+
+    @Html.Partial("_Footer")
+    @Html.Partial("_GA")
+</body>
+</html>

@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Ukrainian Alfalfa Hay</title>
+    <meta name="description"
+          content="Ukrainian Alfalfa is the biggest alfalfa hay exporter from Ukraine. Alfalfa bales and alfalfa pellets for livestock. Grades, prices, packing, shipment.">
+    <meta name="keywords" content="alfalfa, hay, bales, pellets,
+		ukrainian alfalfa, prices, shipment, grades, terms">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="@Url.Content("~/Content/Site.css")" />
+    <link runat="server" rel="shortcut icon" href="@Url.Content("~/Content/img/favicon.ico")" type="image/x-icon" />
+    <link runat="server" rel="icon" href="@Url.Content("~/Content/img/favicon.ico")" type="image/ico" />
+</head>
+<body class="home">
+    @Html.Partial("_Header")
+    <section>
+        <h1>Alfalfa hay</h1>
+        <div class="shop-front">
+            <div>
+                <a class="bales" href="/bales"
+                    title="Learn more about ukrainian alfalfa bales">
+                    <div class="image">
+                        <img src="@Url.Content("~/Content/img/ukrainian-alfalfa-bales.png")"
+                                alt="Ukrainian alfalfa bales for export" />
+                    </div>
+                    <div class="text">
+                        <h2>Bales</h2>
+                        <p>
+                            Alfalfa hay bales are used as animal feed or fertilizer for
+                            gardening.
+                        </p>
+                    </div>
+                </a>
+            </div>
+            <div>
+                <a class="pellets" href="/pellets"
+                    title="Learn more about ukrainian alfalfa pellets">
+                    <div class="image">
+                        <img src="@Url.Content("~/Content/img/ukrainian-alfalfa-pellets.png")"
+                                alt="Ukrainian alfalfa pellets for export" />
+                    </div>
+                    <div class="text">
+                        <h2>Pellets</h2>
+                        <p>
+                            Alfalfa pellets manufactured from artificially
+                            dried alfalfa hay for horses, cattle, pigs, chickens, sheep,
+                            goats and rabbits.
+                        </p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="text-wrapper">
+            UKRAINIAN ALFALFA LLC 2016
+        </div>
+    </section>
+    @Html.Partial("_GA")
+</body>
+</html>
